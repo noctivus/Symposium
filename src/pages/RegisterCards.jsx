@@ -34,7 +34,7 @@ const RegisterCards = () => {
       icon: <BsNut size={22} className="text-white/80" />,
       description:
         "Learn directly from industry pros and level up your tech game. Hands-on, high-impact, highly awesome.",
-      link: "https://forms.gle/x6HmJ27bLMQHcfkC9",
+      link: "",
     },
     {
       name: "Tech & Non-Tech Events",
