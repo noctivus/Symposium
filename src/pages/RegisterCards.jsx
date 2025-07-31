@@ -99,20 +99,11 @@ const RegisterCards = () => {
               </div>
 
               {/* Conditional Button */}
-              {( event.name !== "Workshop" )? (
-                <div className="mt-6 self-end px-4 py-2 bg-red-600 text-white rounded-full text-sm text-center cursor-not-allowed">
-                  Event Closed
-                </div>
-              ) : (
-                <a
-                  href={event.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="mt-6 self-end px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white rounded-full transition-all duration-300 text-sm text-center"
-                >
-                  Register
-                </a>
-              )}
+              <div className="mt-6 self-end px-4 py-2 bg-red-600 text-white rounded-full text-sm text-center cursor-not-allowed">
+  Event Closed
+</div>
+
+              
             </SpotlightCard>
           ))}
         </div>
