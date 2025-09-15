@@ -21,12 +21,12 @@ const coordinators = {
     },
   ],
   students: [
-    { name: "Abilash B", phone: "+91 72004 67850" },
-    { name: "Kartheek Kareti", phone: "+91 94455 27120" },
-    { name: "Roshath S", phone: "+91 81228 65936" },
-    { name: "Adarsh A G", phone: "+91 98849 47054" },
-    { name: "Balakumaran", phone: "+91 76958 27158" },
-    { name: "Uppala Vishnu Varthan", phone: "+91 99083 80546" },
+    { name: "Abilash B", phone: "+XX XXXXXXXXXX" },
+    { name: "Kartheek Kareti", phone: "+XX XXXXXXXXXX" },
+    { name: "Roshath S", phone: "+XX XXXXXXXXXX" },
+    { name: "Adarsh A G", phone: "+XX XXXXXXXXXX" },
+    { name: "Balakumaran", phone: "+XX XXXXXXXXXX" },
+    { name: "Uppala Vishnu Varthan", phone: "+XX XXXXXXXXXX" },
   ],
 };
 
